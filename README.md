@@ -2,6 +2,8 @@
 
 combined Proof-of-Concept launcher for two VLC MMS/MMSh memory-safety research cases.
 
+![PoC Demo](vid/PoC.gif)
+
 ## PoCs
 
 ### 01 — MMS/ASF OOB Read
